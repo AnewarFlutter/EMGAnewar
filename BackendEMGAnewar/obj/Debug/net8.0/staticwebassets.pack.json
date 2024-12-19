@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\0d2a279c-eef9-4551-9e3e-ecff5100b98b.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\0d2a279c-eef9-4551-9e3e-ecff5100b98b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\3bb07ac9-7890-42e8-ade2-e37d2c1710d3.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\3bb07ac9-7890-42e8-ade2-e37d2c1710d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\7491bcbd-1bbc-4455-ab0a-5636480ea2ff.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\7491bcbd-1bbc-4455-ab0a-5636480ea2ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\9c732ed1-288f-48a1-8bd0-b8467069555c.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\9c732ed1-288f-48a1-8bd0-b8467069555c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\bce2f66a-eafe-4a67-bdf0-3171f22d9332.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\bce2f66a-eafe-4a67-bdf0-3171f22d9332.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\db833cee-9625-4324-9a93-4feb12e34504.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\db833cee-9625-4324-9a93-4feb12e34504.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\dd63dd7d-a3fe-446b-810b-6555034196bd.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\dd63dd7d-a3fe-446b-810b-6555034196bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\damal\\Desktop\\projet C#\\EMGVoitures\\wwwroot\\images\\vehicles\\e3223d97-15ef-439f-9adb-39a59a960fa2.jpg",
+      "PackagePath": "staticwebassets\\images\\vehicles\\e3223d97-15ef-439f-9adb-39a59a960fa2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EMGVoitures.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EMGVoitures.props",
+      "PackagePath": "build\\EMGVoitures.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EMGVoitures.props",
+      "PackagePath": "buildMultiTargeting\\EMGVoitures.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EMGVoitures.props",
+      "PackagePath": "buildTransitive\\EMGVoitures.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
