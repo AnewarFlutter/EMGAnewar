@@ -163,3 +163,7 @@ C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\obj\Debug\net8.0\refint\EMG
 C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\obj\Debug\net8.0\EMGVoitures.pdb
 C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\obj\Debug\net8.0\EMGVoitures.genruntimeconfig.cache
 C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\obj\Debug\net8.0\ref\EMGVoitures.dll
+C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\bin\Debug\net8.0\Client\ViewEMGAnewar\components.json
+C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\bin\Debug\net8.0\Client\ViewEMGAnewar\package-lock.json
+C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\bin\Debug\net8.0\Client\ViewEMGAnewar\package.json
+C:\Users\damal\Desktop\EMGANEWAR\TP\BackendEMGAnewar\bin\Debug\net8.0\Client\ViewEMGAnewar\tsconfig.json

@@ -1,6 +1,0 @@
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.csproj.AssemblyReference.cache
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.AssemblyInfoInputs.cache
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.AssemblyInfo.cs
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.csproj.CoreCompileInputs.cache
-C:\Users\damal\Desktop\EMGANEWAR\TP\EMGVoitures.Tests\obj\Release\net8.0\EMGVoitures.Tests.sourcelink.json

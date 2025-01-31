@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EMGVoitures\EMGVoitures.csproj" />
+    <ProjectReference Include="..\BackendEMGAnewar\EMGVoitures.csproj" />
   </ItemGroup>
 
   <ItemGroup>
