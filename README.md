@@ -185,6 +185,10 @@ L'interface administrateur propose trois actions principales :
 
 ![Capture d'écran 2025-01-31 230748](https://github.com/user-attachments/assets/5e772a09-eaab-478f-bd7e-22157bfe672c)
 
+![Capture d'écran 2025-01-31 232649](https://github.com/user-attachments/assets/9c71822b-6956-49c1-b3de-c6ea0d9765fe)
+
+![Capture d'écran 2025-01-31 232700](https://github.com/user-attachments/assets/3c326196-5dbf-425d-b3ba-ad1e343c45f2)
+
 ![Capture d'écran 2025-01-31 231439](https://github.com/user-attachments/assets/4238251e-b209-4c38-8d18-1b1f3e6f6cf6)
 
 ![Capture d'écran 2025-01-31 231604](https://github.com/user-attachments/assets/d8b1eea9-2d96-4a3d-b68c-614a19dfcadf)
