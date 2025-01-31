@@ -192,3 +192,16 @@ L'interface administrateur propose trois actions principales :
 
 
 ## Test de CI/CD et deploiement sur Micrsoft Azure 
+
+![Capture d'écran 2025-01-31 232135](https://github.com/user-attachments/assets/be92cc2e-06ae-4f4a-b9e6-082e75aab43f)
+
+
+
+
+
+## Url View
+
+https://view-emg-voiture.azurewebsites.net/
+
+
+
