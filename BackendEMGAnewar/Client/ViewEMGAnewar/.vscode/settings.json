@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2befa731-6f98-4a85-bef6-ac9158810b1b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/view-emg-voiture",
+    "appService.deploySubpath": "."
+}
