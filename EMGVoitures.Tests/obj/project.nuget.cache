@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "gRW9ldP4VS0a2BQiL+RwZ4EgBP6OPKx0knOWdKvJgRlcNFqJT7pwtTpMCZ+LNsetXLc4ErPqPhl+sQSfeRQFxg==",
-  "success": false,
+  "dgSpecHash": "64g1bIhZZ4wfaczd75GpCQVECPp42mRNQnP549Nqp4+Tb7sG/CCYDWR/T9/GmCKNQTe7EXIom6KqKPlmIrdZvA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\damal\\Desktop\\EMGANEWAR\\TP\\EMGVoitures.Tests\\EMGVoitures.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damal\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
@@ -43,15 +43,5 @@
     "C:\\Users\\damal\\.nuget\\packages\\xunit.extensibility.execution\\2.6.6\\xunit.extensibility.execution.2.6.6.nupkg.sha512",
     "C:\\Users\\damal\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.6\\xunit.runner.visualstudio.2.5.6.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Projet 'C:\\Users\\damal\\Desktop\\EMGANEWAR\\TP\\EMGVoitures\\EMGVoitures.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
-      "libraryId": "C:\\Users\\damal\\Desktop\\EMGANEWAR\\TP\\EMGVoitures\\EMGVoitures.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

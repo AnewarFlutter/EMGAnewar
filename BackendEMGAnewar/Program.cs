@@ -30,6 +30,10 @@ builder.Services.AddAuthentication(options =>
 })
 .AddJwtBearer(options =>
 {
+    var keyString = builder.Configuration["Jwt:Key"];
+    if (keyString == null) throw new ArgumentNullException(nameof(keyString));
+    var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(keyString));
+
     options.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuer = true,
@@ -38,7 +42,7 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         ValidIssuer = builder.Configuration["Jwt:Issuer"],
         ValidAudience = builder.Configuration["Jwt:Audience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+        IssuerSigningKey = key
     };
 });
 
@@ -48,7 +52,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.WithOrigins("https://localhost:3000")
+            policy.WithOrigins("https://view-emg-voiture.azurewebsites.net/")
                   .AllowAnyHeader()
                   .AllowAnyMethod()
                   .AllowCredentials();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMGVoitures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e03f1fe1e86a665e58f0da31a563de4d7d7a6bbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11dde29a91ac47f99b7392c4dd899793e18905f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMGVoitures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMGVoitures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

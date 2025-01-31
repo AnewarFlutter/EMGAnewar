@@ -31,9 +31,10 @@ namespace EMGVoitures.Controllers
             {
                 var userRoles = await _userManager.GetRolesAsync(user);
 
+                var userName = user.UserName ?? throw new ArgumentNullException(nameof(user.UserName));
                 var claims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(ClaimTypes.Name, userName),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                 };
 
@@ -55,7 +56,9 @@ namespace EMGVoitures.Controllers
 
         private JwtSecurityToken GenerateToken(List<Claim> claims)
         {
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
+            var keyString = _configuration["Jwt:Key"];
+            if (keyString == null) throw new ArgumentNullException(nameof(keyString));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(keyString));
             var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             return new JwtSecurityToken(
